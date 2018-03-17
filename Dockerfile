@@ -1,4 +1,4 @@
-FROM hshar/ubuntunew1212
+FROM chun/ubuntunew2018
 
 ADD Blob /var/www/html/
 
